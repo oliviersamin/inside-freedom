@@ -59,11 +59,10 @@ we can see that there are several techniucal point to consider such as:
 4. Memory speed
 5. Physical size card (enter in my PC?)
 
-Possible candidates
+Best candidate [msi rtx 460 ti gaming x slim 16 gb](https://www.youtube.com/watch?v=mVETpI9SMB8)
 ----
-334.9 euros(20231021): [Gigabyte NVIDIA GeForce RTX 3060](https://www.amazon.es/Gigabyte-GeForce-NVIDIA-VALIDO-MINERIA/dp/B096YK45Q2/ref=sr_1_10?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=GeForce+RTX+4070&refinements=p_n_feature_browse-bin%3A28135916031%2Cp_36%3A30000-&rnid=1323854031&s=computers&sr=1-10)
-
-
+549.9 amazon [20231023](https://www.amazon.es/MSI-GeForce-Gaming-Tarjeta-gr%C3%A1fica/dp/B0CBK8TQS1/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=msi+rtx+460+ti+gaming+x+slim+16gb&s=computers&sr=1-1)
+    
 AI to find AI
 ---
 [site](https://theresanaiforthat.com/s/analyze+github+repository/)
